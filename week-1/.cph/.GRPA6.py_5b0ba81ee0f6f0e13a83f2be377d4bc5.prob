@@ -1,0 +1,1 @@
+{"name":"Local: GRPA6","url":"c:\\vidhatri\\code\\week-1\\GRPA6.py","tests":[{"id":1712075566878,"input":"50\n3","output":"2"},{"id":1712076081531,"input":"191938274923\n9482","output":"8799"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\week-1\\GRPA6.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PPA1","url":"c:\\vidhatri\\code\\week-6\\PPA1.py","tests":[{"id":1712577750169,"input":"one,four,one,six,five,one,four,two,nine,one","output":"five:1\nfour:2\nnine:1\none:4\nsix:1\ntwo:1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\week-6\\PPA1.py","group":"local","local":true}

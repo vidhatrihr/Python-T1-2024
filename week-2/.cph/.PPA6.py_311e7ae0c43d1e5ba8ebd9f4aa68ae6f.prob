@@ -1,0 +1,1 @@
+{"name":"Local: PPA6","url":"c:\\vidhatri\\code\\week-2\\PPA6.py","tests":[{"id":1712120218553,"input":"abcdefg","output":"cde"},{"id":1712161401821,"input":"abcdefghijk.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\week-2\\PPA6.py","group":"local","local":true}

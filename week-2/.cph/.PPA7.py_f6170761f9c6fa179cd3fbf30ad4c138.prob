@@ -1,0 +1,1 @@
+{"name":"Local: PPA7","url":"c:\\vidhatri\\code\\week-2\\PPA7.py","tests":[{"id":1712122004799,"input":"a\nab\nabc\nabcd\nabcde","output":""},{"id":1712122030806,"input":"a\nab\nacdb\nefghi\nabcdefghi","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\week-2\\PPA7.py","group":"local","local":true}

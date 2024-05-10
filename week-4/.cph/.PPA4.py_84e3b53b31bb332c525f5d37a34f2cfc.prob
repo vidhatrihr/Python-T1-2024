@@ -1,0 +1,1 @@
+{"name":"Local: PPA4","url":"c:\\vidhatri\\code\\week-4\\PPA4.py","tests":[{"id":1712323278799,"input":"this,sentence,is,quite,long","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\week-4\\PPA4.py","group":"local","local":true}

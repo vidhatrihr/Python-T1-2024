@@ -1,0 +1,1 @@
+{"name":"Local: task4","url":"c:\\vidhatri\\code\\tasks\\task4.py","tests":[{"id":1712557391152,"input":"3","output":"1,2,3\n4,5,6\n7,8,9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\tasks\\task4.py","group":"local","local":true}

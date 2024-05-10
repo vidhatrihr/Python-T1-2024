@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\vidhatri\\code\\rps\\main.py","tests":[{"id":1714560382119,"input":"rock","output":""},{"id":1714563465738,"input":"paper","output":""},{"id":1714563475150,"input":"scissor","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\rps\\main.py","group":"local","local":true}

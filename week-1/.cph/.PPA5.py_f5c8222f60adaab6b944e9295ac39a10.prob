@@ -1,0 +1,1 @@
+{"name":"Local: PPA5","url":"c:\\vidhatri\\code\\week-1\\PPA5.py","tests":[{"id":1712066938819,"input":"hello\nworld","output":"hello world"},{"id":1712066964000,"input":"good\njob","output":"good job"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\week-1\\PPA5.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: GRPA1","url":"c:\\vidhatri\\code\\week-1\\GRPA1.py","tests":[{"id":1712073380886,"input":"this\nis\na\ngood\nidea","output":"this is a good idea."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\week-1\\GRPA1.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PPA12","url":"c:\\vidhatri\\code\\week-1\\PPA12.py","tests":[{"id":1712071472237,"input":"python\n0\n0","output":"ppppppp"},{"id":1712071552140,"input":"mathematics\n1\n4","output":"atheatheathe"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatri\\code\\week-1\\PPA12.py","group":"local","local":true}
